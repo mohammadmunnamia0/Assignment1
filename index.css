@@ -1,0 +1,87 @@
+.section1{
+    
+    background: linear-gradient(
+    to bottom,
+    rgba(224, 224, 224, 0),
+    rgba(0, 0, 0, 1)
+  ),
+  url('resources/Banner\ Image.png');
+    background-repeat:no-repeat;
+    background-position: center center;
+    width: 1320px;
+    height: 600px;
+    margin: 20px auto;
+    border-radius: 16px;
+}
+
+.section1text {
+    color: blanchedalmond;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    position: absolute;
+    top: 25%;
+    left: 35%;
+    font-size:xx-large;
+    font-family: Merriweather;
+}
+
+/* ........... */
+
+
+.section2text{
+    text-align-last: center;
+    margin: 60PX auto;
+}
+
+.section2text h1{
+    font-size: 100px;
+    color: red;
+}
+.section2text h4{
+    color: red;
+}
+
+
+.section2img{
+    margin: 0% 25%;
+}
+
+/* ................. */
+
+.section3{
+    
+    background: linear-gradient(
+    to bottom,
+    rgba(224, 224, 224, 0),
+    rgba(0, 0, 0, 1)
+  ),
+  url('resources/Vectorrr.png');
+    background-repeat:no-repeat;
+    background-position: center center;
+    width: 1320px;
+    height: 600px;
+    margin: 50px auto;
+    border-radius: 16px;
+}
+
+.section3text {
+    color: blanchedalmond;
+    padding-top: 5% ;
+    margin-left: 10%;
+    font-size:xx-large;
+    font-family: Merriweather;
+}
+
+.section3text p{
+    font-family: Inter;
+font-size: 18px;
+}
+.btn{
+    padding: 10px 10px;
+    border-radius: 5px;
+}
+.btn:hover{
+   color : #000;
+    background: goldenrod;
+
+}
