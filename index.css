@@ -85,3 +85,26 @@ font-size: 18px;
     background: goldenrod;
 
 }
+
+.section4{
+    text-align: center;
+    /* border: solid; */
+    height: 80%;
+    width: 70%;
+    padding: 100px 100px;
+    margin: 5% auto;
+    font-size: 32px;
+    background-image: linear-gradient(rgb(238, 219, 219), rgb(227, 227, 227));
+    border-radius: 10px;
+    gap: 10px;
+}
+
+.joinbtn{
+    padding: 15px 20px;
+    border-radius: 5px;
+    background: red;
+    color: rgb(255, 255, 255);
+    font-weight: 800;
+}
+
+/* ................... */
