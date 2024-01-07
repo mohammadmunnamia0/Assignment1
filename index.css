@@ -108,3 +108,37 @@ font-size: 18px;
 }
 
 /* ................... */
+
+.section8{
+    /* border: solid tomato; */
+    height: 80%;
+    width: 70%;
+    padding: 100px 100px;
+    margin: 5% auto;
+    background-image: linear-gradient(rgb(238, 219, 219), rgb(227, 227, 227));
+}
+.Newslettericon{
+    margin: 0% 44%;
+}
+.section8text{
+    text-align: center;
+    font-size: x-large;
+}
+
+.section8 .Subscribearea {
+    padding: 20px 35px;
+    border-radius: 50px 0px 0px 50px;
+    border: none;
+}
+.subbtn{
+    padding: 20px 35px;
+    color: antiquewhite;
+    font-weight: 600;
+    background: red;
+    border-radius: 0px 50px 50px 0px;
+    border: none;
+}
+
+.subbtn:hover{
+    background: lightgreen;
+}
