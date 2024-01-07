@@ -1,3 +1,7 @@
+*{
+    margin: 0;
+}
+
 .section1{
     
     background: linear-gradient(
@@ -66,7 +70,7 @@
 
 .section3text {
     color: blanchedalmond;
-    padding-top: 5% ;
+    padding-top: 14% ;
     margin-left: 10%;
     font-size:xx-large;
     font-family: Merriweather;
@@ -142,3 +146,24 @@ font-size: 18px;
 .subbtn:hover{
     background: lightgreen;
 }
+
+.section9{
+    /* border: solid salmon; */
+    padding: 5% 7%;
+    background: rgb(7, 12, 67);
+    color: antiquewhite;
+}
+
+.fotterup,.fotterdown{
+    display: flex;
+    justify-content: space-between;
+}
+
+.icons {
+    margin: 30px 510px;
+   
+}
+/* .fotterdown{
+     display: flex;
+    justify-content: space-between;
+} */
