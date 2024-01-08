@@ -245,7 +245,9 @@ font-size: 18px;
     text-align: center;
     font-size: x-large;
 }
-
+.section8text>p{
+    color: gray;
+}
 .section8 .Subscribearea {
     margin-top: 30px;
     padding: 20px 35px;
@@ -285,7 +287,6 @@ font-size: 18px;
     margin: 30px 510px;
    
 }
-/* .fotterdown{
-     display: flex;
-    justify-content: space-between;
-} */
+.smallicon{
+    display:inline;
+}
